@@ -31,3 +31,4 @@ int main(){
 	calcus();
 	return(0); 
 	}
+// I Caleb James-Ocloo pledge that I did this assignment by myself
